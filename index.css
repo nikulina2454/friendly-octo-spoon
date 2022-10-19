@@ -1,0 +1,43 @@
+
+.blu {
+    color: black;
+    font-size: 30px;
+    border: rgb(40, 26, 53) 1px solid;
+    text-align: center;
+}
+
+
+.one {
+    color: #2F4F4F;
+    font-size: 24px;
+}
+.two {
+    padding-left: 300px;
+    padding-bottom: 0; 
+  
+}
+.TEXT {
+    font-size: 25px;
+    text-align: right;
+    
+}
+.vazno {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+.photo{
+    width: 170px;
+ 
+}
+
+.text3{
+    font-size: 35px;
+    text-align: center;
+}
+
+.ol {
+    text-align: left;
+    font-size: 30px;
+}
+
